@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PerTak.Common
-build_property.ProjectDir = C:\Users\berka\Desktop\PersonelTakip-api\src\Common\PerTak.Common\
+build_property.ProjectDir = C:\Users\berka\Documents\GitHub\PersonelTakip-api\PersonelTakip-api\src\Common\PerTak.Common\

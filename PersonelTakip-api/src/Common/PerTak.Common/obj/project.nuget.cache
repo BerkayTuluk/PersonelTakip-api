@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qc5JSslCNTGY4PPo/qrWPlhDe6I/SY9rZJUtC+eZ1JlsRVtp79nx9KTexFCFpB0OxHLNCKc5NJLFVubdSL1IwQ==",
+  "dgSpecHash": "ZnhWgUq0lqImNUNr7L36BmDY9mSmaK5K6IDdp0/+5aRECBx7TGSw5/Q8M9igoQdYSO/km/PaKBGOHvGf4kP1kQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\berka\\Desktop\\PersonelTakip-api\\src\\Common\\PerTak.Common\\PerTak.Common.csproj",
+  "projectFilePath": "C:\\Users\\berka\\Documents\\GitHub\\PersonelTakip-api\\PersonelTakip-api\\src\\Common\\PerTak.Common\\PerTak.Common.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

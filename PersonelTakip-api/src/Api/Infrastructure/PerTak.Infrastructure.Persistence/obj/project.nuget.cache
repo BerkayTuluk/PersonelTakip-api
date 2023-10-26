@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KPp3tdGYJx1+HTDtIYnFQFJ5HY2UhapMOv1KQtN7MqnZSDqXGE0GzFzCxb0XjfXALLwoLjHsUYUZxpY8+/bzGQ==",
+  "dgSpecHash": "unbdFKX6Jzf33Jtc/5GGBHSSTEyXinW/RE1zYVwF82mfVA3SRS1ittFNPDvT8Ma948N5jgH10WUC4NbpO0DPRA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\berka\\Desktop\\PersonelTakip-api\\src\\Api\\Infrastructure\\PerTak.Infrastructure.Persistence\\PerTak.Infrastructure.Persistence.csproj",
+  "projectFilePath": "C:\\Users\\berka\\Documents\\GitHub\\PersonelTakip-api\\PersonelTakip-api\\src\\Api\\Infrastructure\\PerTak.Infrastructure.Persistence\\PerTak.Infrastructure.Persistence.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
