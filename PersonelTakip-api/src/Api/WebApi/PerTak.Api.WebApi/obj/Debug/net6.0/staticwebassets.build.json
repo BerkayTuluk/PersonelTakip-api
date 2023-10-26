@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "I8p27jIlnxlActRG3azz2E/+i46M5HpGZeQtloTlY3c=",
+  "Source": "PerTak.Api.WebApi",
+  "BasePath": "_content/PerTak.Api.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
