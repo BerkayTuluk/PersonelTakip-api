@@ -1,0 +1,12 @@
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Core/PerTak.Api.Domain/bin/Debug/net6.0/PerTak.Api.Domain.deps.json
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Core/PerTak.Api.Domain/bin/Debug/net6.0/PerTak.Api.Domain.dll
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Core/PerTak.Api.Domain/bin/Debug/net6.0/PerTak.Api.Domain.pdb
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Core/PerTak.Api.Domain/obj/Debug/net6.0/PerTak.Api.Domain.csproj.AssemblyReference.cache
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Core/PerTak.Api.Domain/obj/Debug/net6.0/PerTak.Api.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Core/PerTak.Api.Domain/obj/Debug/net6.0/PerTak.Api.Domain.AssemblyInfoInputs.cache
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Core/PerTak.Api.Domain/obj/Debug/net6.0/PerTak.Api.Domain.AssemblyInfo.cs
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Core/PerTak.Api.Domain/obj/Debug/net6.0/PerTak.Api.Domain.csproj.CoreCompileInputs.cache
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Core/PerTak.Api.Domain/obj/Debug/net6.0/PerTak.Api.Domain.dll
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Core/PerTak.Api.Domain/obj/Debug/net6.0/refint/PerTak.Api.Domain.dll
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Core/PerTak.Api.Domain/obj/Debug/net6.0/PerTak.Api.Domain.pdb
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Core/PerTak.Api.Domain/obj/Debug/net6.0/ref/PerTak.Api.Domain.dll

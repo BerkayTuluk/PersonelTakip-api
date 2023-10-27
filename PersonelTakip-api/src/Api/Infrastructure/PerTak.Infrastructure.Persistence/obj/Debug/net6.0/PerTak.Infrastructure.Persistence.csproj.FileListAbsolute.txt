@@ -1,0 +1,17 @@
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Infrastructure/PerTak.Infrastructure.Persistence/bin/Debug/net6.0/PerTak.Infrastructure.Persistence.deps.json
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Infrastructure/PerTak.Infrastructure.Persistence/bin/Debug/net6.0/PerTak.Infrastructure.Persistence.runtimeconfig.json
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Infrastructure/PerTak.Infrastructure.Persistence/bin/Debug/net6.0/PerTak.Infrastructure.Persistence.dll
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Infrastructure/PerTak.Infrastructure.Persistence/bin/Debug/net6.0/PerTak.Infrastructure.Persistence.pdb
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Infrastructure/PerTak.Infrastructure.Persistence/bin/Debug/net6.0/PerTak.Api.Domain.dll
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Infrastructure/PerTak.Infrastructure.Persistence/bin/Debug/net6.0/PerTak.Api.Domain.pdb
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Infrastructure/PerTak.Infrastructure.Persistence/obj/Debug/net6.0/PerTak.Infrastructure.Persistence.csproj.AssemblyReference.cache
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Infrastructure/PerTak.Infrastructure.Persistence/obj/Debug/net6.0/PerTak.Infrastructure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Infrastructure/PerTak.Infrastructure.Persistence/obj/Debug/net6.0/PerTak.Infrastructure.Persistence.AssemblyInfoInputs.cache
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Infrastructure/PerTak.Infrastructure.Persistence/obj/Debug/net6.0/PerTak.Infrastructure.Persistence.AssemblyInfo.cs
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Infrastructure/PerTak.Infrastructure.Persistence/obj/Debug/net6.0/PerTak.Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Infrastructure/PerTak.Infrastructure.Persistence/obj/Debug/net6.0/PerTak.Infrastructure.Persistence.csproj.CopyComplete
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Infrastructure/PerTak.Infrastructure.Persistence/obj/Debug/net6.0/PerTak.Infrastructure.Persistence.dll
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Infrastructure/PerTak.Infrastructure.Persistence/obj/Debug/net6.0/refint/PerTak.Infrastructure.Persistence.dll
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Infrastructure/PerTak.Infrastructure.Persistence/obj/Debug/net6.0/PerTak.Infrastructure.Persistence.pdb
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Infrastructure/PerTak.Infrastructure.Persistence/obj/Debug/net6.0/PerTak.Infrastructure.Persistence.genruntimeconfig.cache
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Infrastructure/PerTak.Infrastructure.Persistence/obj/Debug/net6.0/ref/PerTak.Infrastructure.Persistence.dll
