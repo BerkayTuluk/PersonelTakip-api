@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using PerTak.Api.Application.Features.User.Commands.Create;
 using PerTak.Api.Application.Features.User.Commands.Login;
+using PerTak.Api.Application.Features.User.Commands.Update;
 
 namespace PerTak.Api.WebApi.Controllers;
 
@@ -28,6 +29,14 @@ public class UserController : ControllerBase
     [HttpPost]
     [Route("Create")]
     public async Task<IActionResult> Create([FromBody] CreateUserCommandRequest command)
+    {
+        var res = await mediator.Send(command);
+        return Ok(res);
+    }
+
+    [HttpPost]
+    [Route("Update")]
+    public async Task<IActionResult> Update([FromBody] UpdateUserCommandRequest command)
     {
         var res = await mediator.Send(command);
         return Ok(res);

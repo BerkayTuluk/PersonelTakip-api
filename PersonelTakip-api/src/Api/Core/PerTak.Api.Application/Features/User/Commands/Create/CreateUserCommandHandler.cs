@@ -25,9 +25,9 @@ public class CreateUserCommandHandler : IRequestHandler<CreateUserCommandRequest
         if (existsUser is not null)
             throw new DatabaseValidationException("User already exists!");
         
-        var dbUser = mapper.Map<Domain.Models.User>(request);
+        request.Password = PasswordEncryptor.Encrpt(request.Password);
         
-        PasswordEncryptor.Encrpt(dbUser.Password);
+        var dbUser = mapper.Map<Domain.Models.User>(request);
 
         var rows = await _userRepository.AddAsync(dbUser);
 

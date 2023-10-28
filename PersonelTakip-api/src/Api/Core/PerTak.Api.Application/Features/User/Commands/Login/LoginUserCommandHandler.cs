@@ -32,7 +32,7 @@ public class LoginUserCommandHandler : IRequestHandler<LoginUserCommandRequest, 
         if (dbUser == null)
             throw new DatabaseValidationException("User not found!");
 
-        var pass = request.Password;
+        var pass = PasswordEncryptor.Encrpt(request.Password);
         if (dbUser.Password != pass)
             throw new DatabaseValidationException("Password is wrong!");
         var result = _mapper.Map<LoginUserCommandResponse>(dbUser);

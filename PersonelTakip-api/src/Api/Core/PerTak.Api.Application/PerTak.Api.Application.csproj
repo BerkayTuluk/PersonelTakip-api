@@ -29,7 +29,9 @@
 
 
   <ItemGroup>
+    <Folder Include="Features\Department\Queries\" />
     <Folder Include="Features\User\Queries\" />
+    <Folder Include="Features\Work\Queries\" />
   </ItemGroup>
 
 </Project>
