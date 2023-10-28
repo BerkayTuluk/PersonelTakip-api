@@ -1,3 +1,4 @@
+using System.Diagnostics;
 using MediatR;
 
 namespace PerTak.Api.Application.Features.User.Commands.Login;
