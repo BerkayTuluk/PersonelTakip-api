@@ -15,3 +15,7 @@
 /Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Infrastructure/PerTak.Infrastructure.Persistence/obj/Debug/net6.0/PerTak.Infrastructure.Persistence.pdb
 /Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Infrastructure/PerTak.Infrastructure.Persistence/obj/Debug/net6.0/PerTak.Infrastructure.Persistence.genruntimeconfig.cache
 /Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Infrastructure/PerTak.Infrastructure.Persistence/obj/Debug/net6.0/ref/PerTak.Infrastructure.Persistence.dll
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Infrastructure/PerTak.Infrastructure.Persistence/bin/Debug/net6.0/PerTak.Api.Application.dll
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Infrastructure/PerTak.Infrastructure.Persistence/bin/Debug/net6.0/PerTak.Api.Application.pdb
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Infrastructure/PerTak.Infrastructure.Persistence/bin/Debug/net6.0/PerTak.Common.dll
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Infrastructure/PerTak.Infrastructure.Persistence/bin/Debug/net6.0/PerTak.Common.pdb

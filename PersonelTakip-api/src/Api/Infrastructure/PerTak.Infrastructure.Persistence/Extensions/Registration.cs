@@ -2,7 +2,9 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using PerTak.Api.Application.Interfaces.Repositories;
 using PerTak.Infrastructure.Persistence.Context;
+using PerTak.Infrastructure.Persistence.Repositories;
 
 namespace PerTak.Infrastructure.Persistence.Extensions;
 
@@ -18,6 +20,10 @@ public static class Registration
                 opt.EnableRetryOnFailure();
             });
         });
+
+        services.AddScoped<IUserRepository, UserRepository>();
+        services.AddScoped<IWorkRepository, WorkRepository>();
+        services.AddScoped<IDepartmenRepository, DepartmenRepository>();
 
         return services;
     }

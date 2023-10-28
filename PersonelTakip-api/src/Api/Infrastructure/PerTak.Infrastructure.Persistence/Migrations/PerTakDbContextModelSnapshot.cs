@@ -22,6 +22,27 @@ namespace PerTak.Infrastructure.Persistence.Migrations
 
             NpgsqlModelBuilderExtensions.UseIdentityByDefaultColumns(modelBuilder);
 
+            modelBuilder.Entity("PerTak.Api.Domain.Models.Departmen", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uuid");
+
+                    b.Property<DateTime>("CreateDate")
+                        .HasColumnType("timestamp with time zone");
+
+                    b.Property<string>("DepartmenName")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.Property<Guid>("WorkId")
+                        .HasColumnType("uuid");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Departmens");
+                });
+
             modelBuilder.Entity("PerTak.Api.Domain.Models.User", b =>
                 {
                     b.Property<Guid>("Id")
@@ -57,6 +78,53 @@ namespace PerTak.Infrastructure.Persistence.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Users");
+                });
+
+            modelBuilder.Entity("PerTak.Api.Domain.Models.Work", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uuid");
+
+                    b.Property<string>("Comments")
+                        .HasColumnType("text");
+
+                    b.Property<DateTime>("CreateDate")
+                        .HasColumnType("timestamp with time zone");
+
+                    b.Property<Guid>("DepartmenId")
+                        .HasColumnType("uuid");
+
+                    b.Property<string>("JobName")
+                        .HasColumnType("text");
+
+                    b.Property<string>("WorkerName")
+                        .HasColumnType("text");
+
+                    b.Property<DateTime>("WorkerTime")
+                        .HasColumnType("timestamp with time zone");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("DepartmenId");
+
+                    b.ToTable("Works");
+                });
+
+            modelBuilder.Entity("PerTak.Api.Domain.Models.Work", b =>
+                {
+                    b.HasOne("PerTak.Api.Domain.Models.Departmen", "Departmen")
+                        .WithMany("works")
+                        .HasForeignKey("DepartmenId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Departmen");
+                });
+
+            modelBuilder.Entity("PerTak.Api.Domain.Models.Departmen", b =>
+                {
+                    b.Navigation("works");
                 });
 #pragma warning restore 612, 618
         }

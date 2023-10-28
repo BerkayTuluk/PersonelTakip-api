@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{5B1A35B8-7D54-48BF-AD89-5944951CF0C6}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/Api/Infrastructure/PerTak.Infrastructure.Persistence/Extensions/Registration.cs">
+    <Files>
+      <File FileName="src/Api/WebApi/PerTak.Api.WebApi/appsettings.Development.json" Line="8" Column="159" />
+      <File FileName="src/Api/Core/PerTak.Api.Domain/Models/BaseEntity.cs" Line="1" Column="1" />
+      <File FileName="src/Api/Core/PerTak.Api.Domain/Models/User.cs" Line="14" Column="1" />
+      <File FileName="src/Api/Infrastructure/PerTak.Infrastructure.Persistence/Context/PerTakDbContext.cs" Line="25" Column="154" />
+      <File FileName="src/Api/Infrastructure/PerTak.Infrastructure.Persistence/Extensions/Registration.cs" Line="15" Column="80" />
+      <File FileName="src/Api/WebApi/PerTak.Api.WebApi/Program.cs" Line="30" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PerTak-api" expanded="True">
+            <Node name="src" expanded="True">
+              <Node name="Api" expanded="True">
+                <Node name="Core" expanded="True">
+                  <Node name="PerTak.Api.Domain" expanded="True">
+                    <Node name="Models" expanded="True" />
+                  </Node>
+                </Node>
+                <Node name="Infrastructure" expanded="True">
+                  <Node name="PerTak.Infrastructure.Persistence" expanded="True">
+                    <Node name="Context" expanded="True" />
+                    <Node name="Extensions" expanded="True" />
+                  </Node>
+                </Node>
+                <Node name="WebApi" expanded="True">
+                  <Node name="PerTak.Api.WebApi" expanded="True">
+                    <Node name="appsettings.json" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.src.Api.WebApi.PerTak.Api.WebApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

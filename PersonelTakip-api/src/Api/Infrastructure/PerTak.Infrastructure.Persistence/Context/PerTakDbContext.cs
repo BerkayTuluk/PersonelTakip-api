@@ -7,7 +7,7 @@ namespace PerTak.Infrastructure.Persistence.Context;
 
 public class PerTakDbContext : DbContext
 {
-	public const string DEFAULT_SCHEMA = "dbo";
+	public const string DEFAULT_SCHEMA = "public";
 
 	public PerTakDbContext()
 	{
@@ -19,6 +19,8 @@ public class PerTakDbContext : DbContext
     }
 
 	public DbSet<User> Users { get; set; }
+	public DbSet<Work> Works { get; set; }
+	public DbSet<Departmen> Departmens { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
@@ -72,7 +74,7 @@ public class PerTakDbContext : DbContext
         foreach (var entity in entities)
         {
             if (entity.CreateDate == DateTime.MinValue)
-                entity.CreateDate = DateTime.Now;
+                entity.CreateDate = DateTime.UtcNow;
         }
     }
 }

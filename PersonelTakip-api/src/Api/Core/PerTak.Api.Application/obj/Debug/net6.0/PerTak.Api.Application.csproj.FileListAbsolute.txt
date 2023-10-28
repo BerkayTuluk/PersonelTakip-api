@@ -1,0 +1,17 @@
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Core/PerTak.Api.Application/bin/Debug/net6.0/PerTak.Api.Application.deps.json
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Core/PerTak.Api.Application/bin/Debug/net6.0/PerTak.Api.Application.dll
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Core/PerTak.Api.Application/bin/Debug/net6.0/PerTak.Api.Application.pdb
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Core/PerTak.Api.Application/bin/Debug/net6.0/PerTak.Api.Domain.dll
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Core/PerTak.Api.Application/bin/Debug/net6.0/PerTak.Api.Domain.pdb
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Core/PerTak.Api.Application/obj/Debug/net6.0/PerTak.Api.Application.csproj.AssemblyReference.cache
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Core/PerTak.Api.Application/obj/Debug/net6.0/PerTak.Api.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Core/PerTak.Api.Application/obj/Debug/net6.0/PerTak.Api.Application.AssemblyInfoInputs.cache
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Core/PerTak.Api.Application/obj/Debug/net6.0/PerTak.Api.Application.AssemblyInfo.cs
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Core/PerTak.Api.Application/obj/Debug/net6.0/PerTak.Api.Application.csproj.CoreCompileInputs.cache
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Core/PerTak.Api.Application/obj/Debug/net6.0/PerTak.Api.Application.csproj.CopyComplete
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Core/PerTak.Api.Application/obj/Debug/net6.0/PerTak.Api.Application.dll
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Core/PerTak.Api.Application/obj/Debug/net6.0/refint/PerTak.Api.Application.dll
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Core/PerTak.Api.Application/obj/Debug/net6.0/PerTak.Api.Application.pdb
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Core/PerTak.Api.Application/obj/Debug/net6.0/ref/PerTak.Api.Application.dll
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Core/PerTak.Api.Application/bin/Debug/net6.0/PerTak.Common.dll
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Core/PerTak.Api.Application/bin/Debug/net6.0/PerTak.Common.pdb

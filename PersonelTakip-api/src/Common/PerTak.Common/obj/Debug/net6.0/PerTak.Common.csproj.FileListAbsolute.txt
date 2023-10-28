@@ -1,0 +1,12 @@
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Common/PerTak.Common/bin/Debug/net6.0/PerTak.Common.deps.json
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Common/PerTak.Common/bin/Debug/net6.0/PerTak.Common.dll
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Common/PerTak.Common/bin/Debug/net6.0/PerTak.Common.pdb
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Common/PerTak.Common/obj/Debug/net6.0/PerTak.Common.csproj.AssemblyReference.cache
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Common/PerTak.Common/obj/Debug/net6.0/PerTak.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Common/PerTak.Common/obj/Debug/net6.0/PerTak.Common.AssemblyInfoInputs.cache
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Common/PerTak.Common/obj/Debug/net6.0/PerTak.Common.AssemblyInfo.cs
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Common/PerTak.Common/obj/Debug/net6.0/PerTak.Common.csproj.CoreCompileInputs.cache
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Common/PerTak.Common/obj/Debug/net6.0/PerTak.Common.dll
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Common/PerTak.Common/obj/Debug/net6.0/refint/PerTak.Common.dll
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Common/PerTak.Common/obj/Debug/net6.0/PerTak.Common.pdb
+/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Common/PerTak.Common/obj/Debug/net6.0/ref/PerTak.Common.dll

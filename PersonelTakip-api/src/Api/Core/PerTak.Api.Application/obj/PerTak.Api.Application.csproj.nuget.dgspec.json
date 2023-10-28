@@ -25,6 +25,161 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Core/PerTak.Api.Domain/PerTak.Api.Domain.csproj": {
+                "projectPath": "/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Core/PerTak.Api.Domain/PerTak.Api.Domain.csproj"
+              },
+              "/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Common/PerTak.Common/PerTak.Common.csproj": {
+                "projectPath": "/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Common/PerTak.Common/PerTak.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.4.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[10.4.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.17.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.17.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Core/PerTak.Api.Domain/PerTak.Api.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Core/PerTak.Api.Domain/PerTak.Api.Domain.csproj",
+        "projectName": "PerTak.Api.Domain",
+        "projectPath": "/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Core/PerTak.Api.Domain/PerTak.Api.Domain.csproj",
+        "packagesPath": "/Users/berkaytuluk/.nuget/packages/",
+        "outputPath": "/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Api/Core/PerTak.Api.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/berkaytuluk/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Common/PerTak.Common/PerTak.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Common/PerTak.Common/PerTak.Common.csproj",
+        "projectName": "PerTak.Common",
+        "projectPath": "/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Common/PerTak.Common/PerTak.Common.csproj",
+        "packagesPath": "/Users/berkaytuluk/.nuget/packages/",
+        "outputPath": "/Users/berkaytuluk/Documents/GitHub/PersonelTakip-api/PersonelTakip-api/src/Common/PerTak.Common/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/berkaytuluk/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
