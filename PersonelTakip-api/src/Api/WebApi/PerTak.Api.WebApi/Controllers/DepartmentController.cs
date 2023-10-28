@@ -1,6 +1,7 @@
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using PerTak.Api.Application.Features.Department.Commands.Create;
+using PerTak.Api.Application.Features.Department.Commands.Update;
 
 namespace PerTak.Api.WebApi.Controllers;
 
@@ -22,6 +23,14 @@ public class DepartmentController : Controller
     {
         var res = await _mediator.Send(command);
 
+        return Ok(res);
+    }
+
+    [HttpPost]
+    [Route("Update")]
+    public async Task<IActionResult> Update([FromBody] UpdateDepartmentCommandRequest command)
+    {
+        var res = await _mediator.Send(command);
         return Ok(res);
     }
 }

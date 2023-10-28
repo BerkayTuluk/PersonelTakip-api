@@ -1,6 +1,7 @@
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using PerTak.Api.Application.Features.Work.Commands.Create;
+using PerTak.Api.Application.Features.Work.Commands.Update;
 
 namespace PerTak.Api.WebApi.Controllers;
 
@@ -18,6 +19,14 @@ public class WorkController : ControllerBase
     [HttpPost]
     [Route("Create")]
     public async Task<IActionResult> Create([FromBody] CreateWorkCommandRequest command)
+    {
+        var res = await _mediator.Send(command);
+        return Ok(res);
+    }
+    
+    [HttpPost]
+    [Route("Update")]
+    public async Task<IActionResult> Update([FromBody] UpdateWorkCommandRequest command)
     {
         var res = await _mediator.Send(command);
         return Ok(res);

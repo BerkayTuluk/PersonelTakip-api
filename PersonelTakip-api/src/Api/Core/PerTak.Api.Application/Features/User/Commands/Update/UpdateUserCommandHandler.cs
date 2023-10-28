@@ -28,7 +28,7 @@ public class UpdateUserCommandHandler : IRequestHandler<UpdateUserCommandRequest
 
         _mapper.Map(request, dbUser);
 
-        var rows = await _userRepository.UpdateAsync(dbUser);
+        await _userRepository.UpdateAsync(dbUser);
 
         return dbUser.Id;
     }
